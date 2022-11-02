@@ -1,5 +1,7 @@
 # Insertion Sort Project
 
+https://app.patika.dev/emircode
+
 [22, 27, 16, 2, 18, 6] > Insertion Sort
 
 A. Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -37,5 +39,3 @@ E. dizisinin Insertion Sort türüne göre ilk ‘’4’’adımını yazınız
 2. [**3,5,7**,8,2,9,4,15,6]
 3. [**3,5,7,8**,2,9,4,15,6]
 4. [**3,5,7,2,8**,9,4,15,6]…
-
-
